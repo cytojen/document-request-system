@@ -1,2 +1,1 @@
-web: gunicorn docreq:docreq
-
+web: gunicorn app:app
